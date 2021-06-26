@@ -1,0 +1,6 @@
+Mohamad  1010  Driver  22  7837.5  
+________
+Akmal  1550  Accountant  20  11970.0  
+________
+Nana  2013  Secretary  25  7481.25  
+________
